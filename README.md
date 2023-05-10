@@ -1,1 +1,1 @@
-# RickMorty
+RickMorty
