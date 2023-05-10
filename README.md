@@ -22,10 +22,10 @@
 
 # Rick Morty Database
 
-3) Character Schema :- 
+# 3) Character Schema :- 
 ![Screenshot 2023-05-10 195813](https://github.com/shaurya-vardhan012/RickMorty/assets/78726044/62a3176d-e199-475c-9530-a399a4430ae5)
 
-4) Database Entry :-
+# 4) Database Entry :-
 ![Screenshot 2023-05-10 195550](https://github.com/shaurya-vardhan012/RickMorty/assets/78726044/ca54d84c-ddb2-415a-86d6-0c2b8e7ec346)
 
 
